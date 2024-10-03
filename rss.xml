@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Noticias de empleo</title>
+    <link>http://127.0.0.1:5500/rssDemo.html</link>
+    <description>Mantente actualizado sobre las últimas demandas de empleo, cursos y formación profesional</description>
+    <item>
+      <title>ESTRELLA _DISEÑADOR WEB CREATIVO</title>
+      <link>https://www.infojobs.net/barcelona/estrella-_disenador-web-creativo/</link>
+      <description>Buscamos a un/a Crack del Diseño Web para unirse al equipo principal de la consultora de Marketing y Comunicación de referencia de habla hispana, la Incubadora Despegue.</description>
+      <pubDate>Wed, 02 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Noticia 1</title>
+      <link>https://www.pagina1.com/noticia1</link>
+      <description>Resumen breve de la noticia 1.</description>
+      <pubDate>Wed, 02 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Noticia 1</title>
+      <link>https://www.pagina1.com/noticia1</link>
+      <description>Resumen breve de la noticia 1.</description>
+      <pubDate>Wed, 02 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Noticia 1</title>
+      <link>https://www.pagina1.com/noticia1</link>
+      <description>Resumen breve de la noticia 1.</description>
+      <pubDate>Wed, 02 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Noticia 1</title>
+      <link>https://www.pagina1.com/noticia1</link>
+      <description>Resumen breve de la noticia 1.</description>
+      <pubDate>Wed, 02 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
+</channel>
+</rss>
